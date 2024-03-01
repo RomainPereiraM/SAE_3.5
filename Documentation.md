@@ -1,6 +1,6 @@
 <h1> <center> Documentation du projet </center></h1>
 
-##Adaptation du notebook
+## Adaptation du notebook
 Pour ce projet nous avons dû adapter le code afin que celui-ci fonctionne pour plusieurs modèles de classification différents. Nous avons donc choisi de créer un notebook par modèle afin d'éviter tout conflit entre les différents modèles.
 
 ## Algorithme Kmeans
@@ -37,6 +37,6 @@ Nous avons d'abord testé un réseau de neurones d'une seule couche de 100 neuro
 ## Algorithme réseau de neurones convolutionnels (CNN)
 Le CNN est un réseau de neurones spécialisé dans la vision par ordinateur, donc idéal pour un projet comme celui-ci. 
 La principale différence entre un réseau de neurones classique et un CNN est que dans un classique chaque neurone est connecté avec l'ensemble des neurones de la couche précédente ainsi que des neurones de la couche suivante tandis que dans un CNN chaque connexion entre neurones est locale et partagée. 
-De plus dans un CNN les neurones partagés possèdent tous le même poids de filtre afin de limiter le nombre de paramètres.
+De plus dans un CNN les neurones partagés possèdent tous le même poids de filtre afin de limiter le nombre de paramètres. Cela permet d'avoir des couches spécialisées dans l'analyse d'une particularité.
 
 
