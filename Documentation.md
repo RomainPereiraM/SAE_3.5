@@ -1,3 +1,5 @@
+Paul Baudinot, Romain Romain Pereira
+
 <h1> <center> Documentation du projet </center></h1>
 
 ## Adaptation du notebook
